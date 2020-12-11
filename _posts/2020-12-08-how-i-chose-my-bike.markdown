@@ -45,7 +45,7 @@ Across the four stores I visited, there were essentially only three candidates t
 - **Merida Scultura Rim 400**: Shimano 105 gears, rim brakes
 - **LIV Avail AR 2**: Shimano Tiagra gears, disc brakes, endurance geometry specifically designed for women.
 
-![Me in a helmet]({{site.baseurl}}/images/bike_candidates.png)
+![Spot the Difference]({{site.baseurl}}/images/bike_candidates.png)
 
 
 ## Test Ride
