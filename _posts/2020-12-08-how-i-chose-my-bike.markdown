@@ -35,7 +35,7 @@ Afterwards, I spent a few hours reading articles online and watching YouTube vid
 
 My mind now slightly more enlightened on road bike intricacies, I finally ventured out into the wild and visited some bike shops. I went to four stores in total, and there were common themes to my experiences at each. I marvelled at the rainbow array of bikes on display, puzzled over the endless racks of esoteric cycling accessories, lamented the consistent and complete lack of any women staff members, and above all, felt very intimidated by the colossal knowledge disparity between me and the other people in the shops.
 
-It soon became apparent that my purchase decision would be made easier, paradoxically, by the unprecedented Covid-induced bike shortage. There just weren't that many suitable road bikes available to choose from. The situation is so dire that newspaper headlines are [proclaiming]((https://www.theguardian.com/lifeandstyle/2020/apr/22/bicycles-are-the-new-toilet-paper-bike-sales-boom-as-coronavirus-lockdown-residents-crave-exercise)) "Bicycles are the new toilet paper".
+It soon became apparent that my purchase decision would be made easier, paradoxically, by the unprecedented Covid-induced bike shortage. There just weren't that many suitable road bikes available to choose from. The situation is so dire that newspaper headlines are proclaiming ["Bicycles are the new toilet paper"](https://www.theguardian.com/lifeandstyle/2020/apr/22/bicycles-are-the-new-toilet-paper-bike-sales-boom-as-coronavirus-lockdown-residents-crave-exercise).
 
 One store I visited did not have a single bike under $3000 available, since these were the first to be snapped up in the lockdown exercise frenzy. I was told at this store that bikes in this price range would not be restocked until late next year.
 
@@ -44,6 +44,8 @@ Across the four stores I visited, there were essentially only three candidates t
 - **Cube Attain SL**: Shimano 105 gears, disc brakes, endurance geometry
 - **Merida Scultura Rim 400**: Shimano 105 gears, rim brakes
 - **LIV Avail AR 2**: Shimano Tiagra gears, disc brakes, endurance geometry specifically designed for women.
+
+![Me in a helmet]({{site.baseurl}}/images/bike_candidates.png)
 
 
 ## Test Ride
