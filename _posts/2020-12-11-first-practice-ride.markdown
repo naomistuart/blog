@@ -44,18 +44,30 @@ Jensen introduced me to the proper technique:
 
 The next part of our Road Bike 101 training concerned changing gears. With my previous mountain bike, which was cheap and nasty and almost falling apart, I avoided changing gears as much as practically possible, since the chain had an unfortunate habit of falling off whenever I switched gears a little too enthusiastically. Consequently, my theoretical knowledge and practical experience of utilising gears was rather thin.
 
-Jensen gave me a brief tutorial, and we practiced changing gears while going up and down the netball courts, to get a feel of how different gear combinations make riding seem "easier" or "harder":
+Jensen gave me a brief tutorial, and we practiced changing gears while going up and down the netball courts, to get a feel of how different gear combinations make pedalling easier or harder.
 
+My bike has two chain rings at the front and 11 cogs in the rear cassette. I learnt:
 
+- The **hardest gear combination** is the largest chain ring at the front and the smallest cog at the back. This is used for long downhills or short, high-speed sprints.
 
+- The **easiest gear combination** is the smallest chain ring at the front and the largest cog at the back. This is used for long, steep climbs.
 
+- **Cross-chaining** should be avoided at all times. This occurs when you use the biggest chain ring at the front together with the biggest cog at the back, or when you use the smallest chain ring at the front together with the smallest cog at the back. When this happens, the chain is forced to stretch at an angle, instead of running in a straight line, which puts strain in the chain and creates unpleasant noises.
+
+![Gear combinations]({{site.baseurl}}/images/gears.png)
 
 
 ## Miscellaneous Tips
 
+Throughout the practice session, Jensen also provided some miscellaneous snippets of knowledge:
+
+- Before coming to a stop, it is usually a good idea to change into an easier gear (1-2 levels down), so you don't have to pedal as hard once you start moving again. This is especially important when riding in a peloton, because you don't want to hold everyone up or become separated from the group.
+
+- Try to wipe the chain down after every ride. You can do this leaning the bike against a wall, holding a piece of old rag in place against the chain, then slowly turning the pedal backwards to move the chain. This helps to get rid of the muck that gets stuck to the chain.
+
+Overall, my first practice ride with a fellow TDC participant was helpful and productive. I arrived back home feeling more knowledgeable and more confident in handling my road bike.
 
 ---
-
 
 [^1]: Note this is just with flat pedals. Things will no doubt get even more interesting once I start using clip-in pedals.
 
