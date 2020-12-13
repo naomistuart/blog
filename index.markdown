@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![New training kit]({{site.baseurl}}/images/home-page-banner.png)

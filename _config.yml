@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My TDC Journey
+title: A TDC Journey
 email: naomi.stuart.322@gmail.com
 author: Naomi Stuart
 
