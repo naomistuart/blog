@@ -31,6 +31,8 @@ header_pages:
   - about.markdown
   - donate.markdown
 
+linkedin_username: naomistuart
+
 # Build settings
 theme: minima
 plugins:
