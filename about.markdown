@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Naomi.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In March 2021 I will take part in [Westpac Move for a Cure](https://moveforacure.com.au/) - a 3-day, 356km ride from Forster to Sydney - to raise funds for cancer research, support and prevention projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am completely new to road biking. This is my personal blog to document my journey, reflections and learnings.
 
+![Profile]({{site.baseurl}}/images/profile.JPG)
 
-[jekyll-organization]: https://github.com/jekyll
+{% include call-to-action.markdown %}

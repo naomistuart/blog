@@ -6,7 +6,7 @@ date:   2020-12-08 20:00:00 +1100
 
 I put off signing up to the Tour de Cure for a long time because I had no idea how to choose a bike. My knowledge of the different components of a bike and the pros and cons of various configurations was basically non-existent.
 
-This is the journey I went on from being bike-less[^1] to a happy owner of my very first road bike.
+This is the journey I went on from being bike-less to a happy owner of my very first road bike. (Actually I did have a bike before, but a $60 one I got off Gumtree hardly counts.)
 
 
 ## Word-of-Mouth
@@ -63,6 +63,4 @@ After collating my 3-bike shortlist, I consulted my Tour-veteran colleagues. The
 
 So it was a pretty straightforward choice in the end, and I went with the Cube Attain SL. Stay tuned to see how I go!
 
----
-
-[^1]: I did have a bike before but a $60 one I got off Gumtree hardly counts.
+{% include call-to-action.markdown %}

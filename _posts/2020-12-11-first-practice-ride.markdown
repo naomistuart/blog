@@ -29,7 +29,7 @@ So follow the straight lines we did. We rode up and down the deserted courts no 
 
 ## Starting and Stopping
 
-Before riding my first road bike, I never imagined that something as seemingly simple as starting and stopping could be quite so tricky. I found that since my feet could not touch the ground while seated, it was always a bit hit-and-miss when I tried to stop and hop off the bike. Sometimes I managed to do it smoothly; more often I was clumsy and felt like I was about to crash or fall over[^1].
+Before riding my first road bike, I never imagined that something as seemingly simple as starting and stopping could be quite so tricky. I found that since my feet could not touch the ground while seated, it was always a bit hit-and-miss when I tried to stop and hop off the bike. Sometimes I managed to do it smoothly; more often I was clumsy and felt like I was about to crash or fall over. (This was just with flat pedals. Things will no doubt get even more interesting once I start using clip-in pedals.)
 
 Jensen introduced me to the proper technique:
 
@@ -67,8 +67,4 @@ Throughout the practice session, Jensen also provided some miscellaneous snippet
 
 Overall, my first practice ride with a fellow TDC participant was helpful and productive. I arrived back home feeling more knowledgeable and more confident in handling my road bike.
 
----
-
-[^1]: Note this is just with flat pedals. Things will no doubt get even more interesting once I start using clip-in pedals.
-
-
+{% include call-to-action.markdown %}
