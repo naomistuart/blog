@@ -12,4 +12,4 @@ I am completely new to road biking. This is my personal blog to document my jour
 
 ![Profile]({{site.baseurl}}/images/profile.JPG)
 
-{% include call-to-action.markdown %}
+If you enjoy my content, please consider supporting Tour de Cure's mission by making a donation via my [fundraising page](https://tourdecure.grassrootz.com/westpac-move-for-a-cure-2021/naomi-stuart).
