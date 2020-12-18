@@ -4,7 +4,7 @@ title:  "Sunday Ride in My New Kit"
 date:   2020-12-13 15:00:00 +1100
 ---
 
-Today I rode 25 km along the Cooks River Cycleway. I have done this ride many times in the past, but never before in my new road bike. Equally novel was the experience of riding for the first time kitted out in the official Tour de Cure training kit.
+Today I rode 25 km along the Cooks River Cycleway. I have done this ride many times in the past, but never before on my new road bike. Equally novel was the experience of riding for the first time kitted out in the official Tour de Cure training kit.
 
 ![Profile]({{site.baseurl}}/images/profile.JPG)
 
