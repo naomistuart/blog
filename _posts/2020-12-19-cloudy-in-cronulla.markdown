@@ -37,7 +37,7 @@ We then headed back towards Cronulla Beach, and finished off the ride with a lap
 - I need to **improve my performance on hills**. While I was able to, on the whole, keep up with Mariana's pace on flats, I fell hopelessly behind on climbs. During Tour de Cure we will be riding in pelotons, with each peloton making up of around 20 riders of similar ability. Mariana explained that while we will be riding at our own pace on hills (at least for the beginner pelotons), you do _not_ want to be the slowest rider. This is because the fastest riders will be able to take a break at the top of the hill as they wait for the stragglers, while the late-comers may be forced to continue straight away without a break, even though they would probably be the ones who need it the most!
 
 
-## COVID, again
+## COVID, Again
 
 As of the time of writing, Sydney's Northern Beaches are in lockdown, the rest of Sydney has been asked to stay home where possible, and the NSW Premier has warned residents there may be increased restrictions for greater Sydney announced tomorrow.
 
