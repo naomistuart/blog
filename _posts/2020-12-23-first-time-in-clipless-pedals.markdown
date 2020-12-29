@@ -4,8 +4,6 @@ title:  "First Time in Clipless Pedals"
 date:   2020-12-23 08:00:00 +1100
 ---
 
-![Shoes]({{site.baseurl}}/images/shoes.png)
-
 ![Shoes]({{site.baseurl}}/images/shoes.jpg)
 
 Today was a big milestone - my first ride with cycling shoes and clipless pedals!
@@ -30,7 +28,7 @@ To launch myself into the vaunted world of clipless pedals, there were three sep
 
 ### Pedals
 
-![Pedals]({{site.baseurl}}/images/pedals.png)
+![Pedals]({{site.baseurl}}/images/pedals.jpg)
 
 If you're confused by the term clip*less* pedals, you are not alone. Clipless pedals are actually pedals that you _clip into_ with your cycling shoes. They are only called clipless for the historical reason of differentiating them from the old-style pedals with toe-clips and straps. (As an aside, while reading articles and watching videos online, I found that some sources use the more logical term "_clip-in_ pedals". However, since most people still seem to refer to them as clipless pedals, I will stick with that term in this blog.)
 
@@ -39,7 +37,7 @@ Broadly speaking there are two varieties of clipless pedals - those designed for
 
 ### Cleats
 
-![Cleats]({{site.baseurl}}/images/cleats.png)
+![Cleats]({{site.baseurl}}/images/cleats.jpg)
 
 A cleat is a component that attaches to the sole of a cycling shoe, allowing you to clip your shoe into the pedal.
 
@@ -52,7 +50,7 @@ While looking through the different cleats at my local bike store, I was told by
 
 ### Shoes
 
-![Comparing shoes]({{site.baseurl}}/images/shoes-compare.png)
+![Comparing shoes]({{site.baseurl}}/images/shoes-compare.jpg)
 
 Entry level cycling shoes typically have **Velcro straps**, while many higher-end models are fitted with the "micro-adjustable" **BOA system**, where a small circular dial is used to adjust the lace tension to achieve a better fit and a more even pressure distribution. After spending so much money on a new bike and various accessories, however, this fancy BOA system seemed very much like a luxury I did not need.
 
