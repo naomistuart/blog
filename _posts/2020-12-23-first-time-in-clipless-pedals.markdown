@@ -6,6 +6,8 @@ date:   2020-12-23 08:00:00 +1100
 
 ![Shoes]({{site.baseurl}}/images/shoes.png)
 
+![Shoes]({{site.baseurl}}/images/shoes.jpg)
+
 Today was a big milestone - my first ride with cycling shoes and clipless pedals!
 
 It is an illustration of my profound ignorance of road cycling that - prior to signing up to Tour de Cure - I had never heard of the term "clipless pedals", nor did I know that cycling shoes are designed to clip into pedals. I thought cycling shoes were just a specialised type of sports shoes that I could easily go without, much like how you could go climbing as a beginner without climbing shoes, or go hiking without fancy hiking boots.
