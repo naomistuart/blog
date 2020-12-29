@@ -4,7 +4,7 @@ title:  "The Inside Story of This Blog"
 date:   2020-12-15 15:00:00 +1100
 ---
 
-![Tools used to make this blog]({{site.baseurl}}/images/blog-tools.png)
+![Tools used to make this blog]({{site.baseurl}}/images/blog-tools.jpg)
 
 I have toyed with the idea of creating a personal blog for years, but never found the motivation to make it happen. There was always a nagging concern - my life just wasn't extravagantly interesting. What would I even write about?
 

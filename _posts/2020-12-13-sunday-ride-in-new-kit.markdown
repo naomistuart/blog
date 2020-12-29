@@ -17,7 +17,7 @@ The training kit consists of a cycling jersey and a pair of bib shorts:
 
 - **Bib shorts**: Prior to joining TDC, I had never heard of the term "bib shorts". I've since discovered these are a type of cycling shorts held up by straps / suspenders (i.e. bib) instead of an elastic waistband like normal shorts. The shorts provide extra cushioning against the saddle, reduce friction and chafing by moving with the body rather than rubbing against the skin, and promote the movement of sweat away from the skin and towards the fabric's outer surfaces (commonly marketed as "moisture wicking").
 
-![Training kit]({{site.baseurl}}/images/training-kit.png)
+![Training kit]({{site.baseurl}}/images/training-kit.jpg)
 
 Putting on my training kit for the first time was a joyous occasion, though I felt a lingering sense of the imposter syndrome. Especially when venturing out into the public, I felt strongly that my attire elevated me to an appearance of professionalism and competence that I did not yet deserve.
 

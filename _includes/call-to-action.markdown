@@ -1,1 +1,1 @@
-[![Donate]({{site.baseurl}}/images/donate-banner.png)](https://tourdecure.grassrootz.com/westpac-move-for-a-cure-2021/naomi-stuart)
+[![Donate]({{site.baseurl}}/images/donate-banner.jpg)](https://tourdecure.grassrootz.com/westpac-move-for-a-cure-2021/naomi-stuart)

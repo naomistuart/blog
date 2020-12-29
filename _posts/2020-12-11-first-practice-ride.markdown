@@ -54,7 +54,7 @@ My bike has two chain rings at the front and 11 cogs in the rear cassette. I lea
 
 - **Cross-chaining** should be avoided at all times. This occurs when you use the biggest chain ring at the front together with the biggest cog at the back, or when you use the smallest chain ring at the front together with the smallest cog at the back. When this happens, the chain is forced to stretch at an angle, instead of running in a straight line, which puts strain in the chain and creates unpleasant noises.
 
-![Gear combinations]({{site.baseurl}}/images/gears.png)
+![Gear combinations]({{site.baseurl}}/images/gears.jpg)
 
 
 ## Miscellaneous Tips
