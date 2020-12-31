@@ -40,7 +40,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-google_analytics: UA-186285813-1
+minima:
+  google_analytics: UA-186285813-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
