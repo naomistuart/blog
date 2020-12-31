@@ -34,6 +34,8 @@ header_pages:
 
 linkedin_username: naomistuart
 
+google_analytics: G-J5KWNDMSGS
+
 # Build settings
 theme: minima
 plugins:
