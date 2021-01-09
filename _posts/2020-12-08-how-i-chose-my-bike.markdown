@@ -4,9 +4,11 @@ title:  "How I Chose My Bike"
 date:   2020-12-08 20:00:00 +1100
 ---
 
+![Spot the Difference]({{site.baseurl}}/images/bike-candidates.jpg)
+
 I put off signing up to the Tour de Cure for a long time because I had no idea how to choose a bike. My knowledge of the different components of a bike and the pros and cons of various configurations was basically non-existent.
 
-This is the journey I went on from being bike-less to a happy owner of my very first road bike. (Actually I did have a bike before, but a $60 one I got off Gumtree hardly counts.)
+This is the journey I went on from being bike-less to a happy owner of my very first road bike. (Actually I did have a bike before, but a $60 one I got off Facebook Marketplace hardly counts.)
 
 
 ## Word-of-Mouth
@@ -44,8 +46,6 @@ Across the four stores I visited, there were essentially only three candidates t
 - **Cube Attain SL**: Shimano 105 gears, disc brakes, endurance geometry
 - **Merida Scultura Rim 400**: Shimano 105 gears, rim brakes
 - **LIV Avail AR 2**: Shimano Tiagra gears, disc brakes, endurance geometry specifically designed for women.
-
-![Spot the Difference]({{site.baseurl}}/images/bike-candidates.jpg)
 
 
 ## Test Ride
