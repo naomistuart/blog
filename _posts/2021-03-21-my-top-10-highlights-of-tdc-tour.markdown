@@ -146,7 +146,7 @@ It was therefore an utterly bewildering, stupefying surprise to be announced as 
 
 ![Power BI dashboard of training stats]({{site.baseurl}}/images/top-10-highlights/hub-ytd-stats.png)
 
-As mentioned in a previous [post]({% post_url 2021-01-09-brief-history-of-how-i-got-involved-with-tdc %}#first-involvement-with-tdc), last year I was involved in coding up a web application for TDC riders and creating data visualisations for tour statistics. This year we took it up a notch, and I designed a new suite of dashboards to showcase the collective achievements of 130 riders during both training and the actual tour. These dashboards (complete with mobile-optimised versions) were integrated into our app, allowing everyone to view interesting stats at the end of each day's riding. In fact I had brought my laptop with me to dinner that night, as I was still busy refreshing our latest Strava data and debugging a pesky memory error in Power BI.
+As mentioned in a previous [post]({{site.baseurl}}/2021/01/09/brief-history-of-how-i-got-involved-with-tdc.html#first-involvement-with-tdc), last year I was involved in coding up a web application for TDC riders and creating data visualisations for tour statistics. This year we took it up a notch, and I designed a new suite of dashboards to showcase the collective achievements of 130 riders during both training and the actual tour. These dashboards (complete with mobile-optimised versions) were integrated into our app, allowing everyone to view interesting stats at the end of each day's riding. In fact I had brought my laptop with me to dinner that night, as I was still busy refreshing our latest Strava data and debugging a pesky memory error in Power BI.
 
 <table class="photo-table">
     <tr>

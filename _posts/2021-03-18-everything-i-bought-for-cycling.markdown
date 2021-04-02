@@ -35,7 +35,7 @@ Below is a complete list of every single thing I bought for my new cycling hobby
 
 - **Lights** (_Ravemen CR500 front light_ & _TR20 rear light_): With training rides typically rolling at 6 am, I have to leave home as early as 4:40 am to ride to the start point in time for the briefing. Lights are therefore an essential accessory. I've been caught out a few times by a dying battery, and I've since learnt that the operating mode of the light makes a huge difference to its run time. For instance, selecting the highest brightness level (500 lumens) on my front light results in only 1.6 hours of run time, but selecting the "rapid flashing" mode (50 lumens) provides 30 hours of run time. I find the highest brightness level is required on unlit paths, so the trick is to remember to switch to a more energy-efficient mode once I reach more well-lit roads.
 
-- **Clipless pedals** (_Shimano R550 SPD-SL_): My bike came with flat pedals so I had to purchase clipless pedals separately. See my [previous post]({% post_url 2020-12-23-first-time-in-clipless-pedals %}) detailing my experiences with clipless pedals.
+- **Clipless pedals** (_Shimano R550 SPD-SL_): My bike came with flat pedals so I had to purchase clipless pedals separately. See my [previous post]({{site.baseurl}}/2020/12/23/first-time-in-clipless-pedals.html) detailing my experiences with clipless pedals.
 
 - **Saddle bag** (_BBB Curvepack medium_): To carry various tools and spares in case of a puncture or other mechanical issue. On TDC training rides we're required to carry a spare tube and CO<sub>2</sub> canisters (or mini pump).
 
