@@ -210,7 +210,7 @@ Rolling from Forster at 7:45 am on Day 1, everyone knew that the forecasts said 
 
 ![Loading our bikes in the rain]({{site.baseurl}}/images/top-10-highlights/rain-loading-bike.jpeg)
 
-When we arrived at Bombah Point, we had to board a ferry to take us the 70 m across Myall Lake. This was when the rain started pouring with even more force and fury. Pushing our bikes onto the ferry in our soaked, bright red Westpac gear, the ferry operator looked at us as if we were mad. It was the kind of weather one would hesitate to drive in, let alone ride. As luck would have it, we made the last ferry across the lake before the services were suspended. Unfortunately (or fortunately?) for P1 (who were the only peloton behind our group), that meant they were done for the day and had to get an uplift in the support cars all the way to our destination at Hawkes Nest.
+When we arrived at Bombah Point, we had to board a ferry to take us the 70 m across Myall Lake. This was when the rain started pouring with even more force and fury. Pushing our bikes onto the ferry in our soaked, bright red Westpac gear, the ferry operator looked at us as if we were mad. It was the kind of weather one would hesitate to drive in, let alone ride. As luck would have it, we made the last ferry across the lake before the services were suspended. Unfortunately (or fortunately?) for P1 (who were the only peloton behind our group), that meant they were done for the day and had to get an uplift in the support cars all the way to our destination at Hawks Nest.
 
 <table class="photo-table">
     <tr>
