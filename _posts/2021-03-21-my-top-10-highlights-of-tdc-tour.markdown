@@ -32,7 +32,7 @@ In addition to the new tour kit, we received the following:
 
 - **Polo shirt**: A team shirt to wear to dinner every night. 
 
-- **Day bag:** A bag to carry any items we might require access to during the day, but which are too big or bulky to carry in our jersey pockets. Examples include a rain jacket, a pair of casual shoes, a dry set of clothes, sunscreen, and a [spare hanger]({% post_url 2021-03-18-everything-i-bought-for-cycling %}#saddle-bag-items). Our day bags went into the support cars, and the support crew always laid them all down on the ground during a lunch stop, so riders could change into a pair of casual shoes.
+- **Day bag:** A bag to carry any items we might require access to during the day, but which are too big or bulky to carry in our jersey pockets. Examples include a rain jacket, a pair of casual shoes, a dry set of clothes, sunscreen, and a [spare hanger]({% link _posts/2021-03-18-everything-i-bought-for-cycling.markdown %}#saddle-bag-items). Our day bags went into the support cars, and the support crew always laid them all down on the ground during a lunch stop, so riders could change into a pair of casual shoes.
 
 - **Laundry bag**: To wash our tour kit after Day 1 in preparation for wearing it again on Day 3.
 
